@@ -1,2 +1,2 @@
 # simple-coding-projects
-Simple Projects
+Simple Coding Exercises
